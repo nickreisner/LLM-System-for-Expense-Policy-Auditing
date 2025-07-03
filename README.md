@@ -1,4 +1,4 @@
-#PolicyPal: Automated Expense Policy Compliance Analyzer Using Multi-Stage, Zero-Shot Retrieval and Evaluation
+# PolicyPal: Automated Expense Policy Compliance Analyzer Using Multi-Stage, Zero-Shot Retrieval and Evaluation
 
 ## Overview
 PolicyPal is a Jupyter notebook system for automated, interpretable expense policy compliance analysis. It processes institutional policy documents and expense receipts, retrieves relevant policy sections, and generates a transparent compliance report using large language models (LLMs).
